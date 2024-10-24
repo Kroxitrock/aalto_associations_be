@@ -1,3 +1,3 @@
 export default function getMessage() {
-  return "Aalto Associations";
+  return "Aalto Associations!";
 }
